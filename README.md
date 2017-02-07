@@ -1,0 +1,2 @@
+# MyWord
+My Resources
